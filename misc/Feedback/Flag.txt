@@ -1,1 +1,1 @@
-`CodefestCTF{7h4nk5_f0r_pl4y1ng}`
+CodefestCTF{7h4nk5_f0r_pl4y1ng}
