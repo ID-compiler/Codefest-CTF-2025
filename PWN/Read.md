@@ -1,5 +1,6 @@
 # Mirror
 
+Total Solve - 132
 Final Points - 100
 
 ## Description
